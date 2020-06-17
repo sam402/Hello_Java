@@ -4,7 +4,7 @@ package com.firstchoice.Github_Eclipse;
  * Hello world!
  *
  */
-public class App 
+public class Hello 
 {
     public static void main( String[] args )
     {
