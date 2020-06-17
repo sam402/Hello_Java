@@ -1,9 +1,3 @@
-package com.firstchoice.Github_Eclipse;
-
-/**
- * Hello world!
- *
- */
 public class Hello 
 {
     public static void main( String[] args )
